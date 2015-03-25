@@ -3,6 +3,7 @@
 	<name>Transformation_DotNet</name>
 	<comment></comment>
 	<projects>
+		<project>Transformation_DotNet_DotNET</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
