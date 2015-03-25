@@ -201,6 +201,9 @@
                                         "details": "Click the Flow Exerciser icon <img src='http://ot4i.github.io/ot4i.tutorials//dist/images/icons/iib/startFlowExerciser.png' alt='' /> to start recording the message path through the flow."
                                     },
                                     {
+                                        "details": "If this is the first time you have exercised the flow, you will be prompted to select the .NET projects to deploy. Just click OK to accept the default."
+                                    },                                    
+                                    {
                                         "details": "Click the Send Message icon <img src='http://ot4i.github.io/ot4i.tutorials/dist/images/icons/iib/sendMessage.png' alt='' /> to select a message to send to the flow."
                                     },
                                     {
