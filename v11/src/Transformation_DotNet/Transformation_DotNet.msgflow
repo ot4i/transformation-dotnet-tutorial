@@ -6,7 +6,7 @@
     <colorGraphic16 xmi:type="utility:GIFFileGraphic" resourceName="platform:/plugin/Transformation_DotNet/icons/full/obj16/Transformation_DotNet.gif"/>
     <colorGraphic32 xmi:type="utility:GIFFileGraphic" resourceName="platform:/plugin/Transformation_DotNet/icons/full/obj30/Transformation_DotNet.gif"/>
     <composition>
-      <nodes xmi:type="ComIbmDotNetCompute.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_3" location="132,20" assemblyName="DotNetTransform.dll" nodeClassName="TransformNode">
+      <nodes xmi:type="ComIbmDotNetCompute.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_3" location="132,20" assemblyName="DotNetTransform.dll" nodeClassName="TransformNode" appDomainName="Transformation_DotNet">
         <translation xmi:type="utility:ConstantString" string=".NETCompute"/>
       </nodes>
       <nodes xmi:type="ComIbmWSInput.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_5" location="35,24" URLSpecifier="/Transformation_DotNet" messageDomainProperty="XMLNSC">
