@@ -154,7 +154,7 @@
                                 "details": 
 								[
                                     {
-                                        "details": "Open an App Connect Enterprise Command Console with elevated Administrator privileges and issue the following commands:<br><code>mqsiassemblyinstall -i IBM.Broker.Plugin.dll</code><br><code>mqsiassemblyinstall -i IBM.Broker.Support.dll</code>"
+                                        "details": "Open an App Connect Enterprise Command Console with elevated Administrator privileges and issue the following commands:<br><code>mqsiassemblyinstall -l IBM.Broker.Plugin.dll</code><br><code>mqsiassemblyinstall -l IBM.Broker.Support.dll</code>"
                                     }
                                 ]
                             }
