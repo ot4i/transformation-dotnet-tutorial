@@ -33,7 +33,7 @@
         "_common": 
 		{
             "name": "Transformation using .NET in a message flow",
-            "shortDescription": "Learn how to use a .NETCompute node to transform data using C# in an App Connect Enterprise message flow by exploring this simple example.",
+            "shortDescription": "Learn how to use a .NETCompute node to transform data using C# in an App Connect Enterprise message flow by exploring this simple example. (Windows platforms only)",
             "durationText": "This tutorial takes approximately",
             "durationTime": "5 minutes",
             "_resourceToOpenComment": "The ID of the first resource to open when the user imports the tutorial. Resource IDs are defined in the repo_metadata.json Tutorials listing on ot4i.",
@@ -168,7 +168,7 @@
                                 "details": 
 								[
                                     {
-                                        "details": "Assuming you are using a Windows platform, open an App Connect Enterprise Command Console and start an integration server using the following command:<br><code>IntegrationServer --work-dir C:\\TESTSERVER --name TESTSERVER --admin-rest-api 7600 --http-port-number 7800 --console-log</code> <br>where <b>C:\\TESTSERVER</b> is a folder on your file system that the server will use for its working directory."
+                                        "details": "Open an App Connect Enterprise Command Console and start an integration server using the following command:<br><code>IntegrationServer --work-dir C:\\TESTSERVER --name TESTSERVER --admin-rest-api 7600 --http-port-number 7800 --console-log</code> <br>where <b>C:\\TESTSERVER</b> is a folder on your file system that the server will use for its working directory."
                                     },
                                     {
                                         "details": "In the App Connect Enterprise Toolkit Integration Explorer view, right click the folder <img src='http://ot4i.github.io/ot4i.tutorials//dist/images/icons/ace/IntegrationServers.png' alt='' /> and select the menu item  <img src='http://ot4i.github.io/ot4i.tutorials//dist/images/icons/ace/ConnectToAnIntegrationServer.png' alt='' />. In the connection details panel, specify the <b>Host name</b> to be <b>localhost</b>, the <b>Port</b> to be <b>7600</b> and click Finish. This will connect your Toolkit and display the integration server that you started in the last step <img src='http://ot4i.github.io/ot4i.tutorials//dist/images/icons/ace/TESTSERVER.png' alt='' />"
