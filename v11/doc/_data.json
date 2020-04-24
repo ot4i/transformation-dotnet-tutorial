@@ -41,7 +41,7 @@
             "helpLink": 
 			{
                 "text": "IBM Knowledge Center",
-                "link": "/com.ibm.ace.home.doc/help_home.htm"
+           		"link": "https://www.ibm.com/support/knowledgecenter/en/SSTTDS_11.0.0/com.ibm.ace.home.doc/help_home.htm"
             }
         },
         "pageDetails": 
@@ -88,8 +88,8 @@
 					{
 						"title": "Knowledge Center link to ",
 						"description": "Developing integration solutions by using applications",
-						"link": "com.ibm.etools.mft.doc/bi12002_.htm",
-						"type": "help"
+						"link": "https://www.ibm.com/support/knowledgecenter/en/SSTTDS_11.0.0/com.ibm.etools.mft.doc/bi12002_.htm",
+						"type": "web"
 					}
 				]
 			}
@@ -121,7 +121,8 @@
                         {
                             "title": "Knowledge Center link to ",
                             "description": "Developing integration solutions from scratch",
-                            "link": "com.ibm.etools.mft.doc/bi12002_.htm"
+                            "link": "https://www.ibm.com/support/knowledgecenter/en/SSTTDS_11.0.0/com.ibm.etools.mft.doc/bi12002_.htm",
+							"type": "web"
                         }
                     ]
                 },
@@ -154,7 +155,7 @@
                                 "details": 
 								[
                                     {
-                                        "details": "Open an App Connect Enterprise Command Console with elevated Administrator privileges and issue the following commands:<br><code>mqsiassemblyinstall -l IBM.Broker.Plugin.dll</code><br><code>mqsiassemblyinstall -l IBM.Broker.Support.dll</code>"
+                                        "details": "Open an App Connect Enterprise Command Console with elevated Administrator privileges and issue the following commands:<br><code>cd server\\bin</code><br><code>mqsiassemblyinstall -l IBM.Broker.Plugin.dll</code><br><code>mqsiassemblyinstall -l IBM.Broker.Support.dll</code>"
                                     }
                                 ]
                             }
@@ -189,7 +190,8 @@
                         {
                             "title": "Knowledge Center link to ",
                             "description": ".NETCompute node",
-                            "link": "com.ibm.etools.mft.doc/bc16270_.htm"
+                            "link": "https://www.ibm.com/support/knowledgecenter/en/SSTTDS_11.0.0/com.ibm.etools.mft.doc/bc16270_.htm",
+							"type": "web"
                         }
                     ]
                 },
@@ -240,7 +242,8 @@
                         {
                             "title": "Knowledge Center link to ",
                             "description": ".NETCompute node",
-                            "link": "com.ibm.etools.mft.doc/bc16270_.htm"
+                            "link": "https://www.ibm.com/support/knowledgecenter/en/SSTTDS_11.0.0/com.ibm.etools.mft.doc/bc16270_.htm",
+							"type": "web"
                         }
                     ]
                 },
